@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListViewWithImage</string>
+
+    <string name="well">Welcome</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto">Sigue</string>
+
+</resources>
